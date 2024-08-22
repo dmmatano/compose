@@ -1,4 +1,4 @@
-# Jetpack Compose
+# Jetpack Compose Docs
 
 [Doc Oficial 1](https://developer.android.com/jetpack/compose?hl=pt-br) <br>
 [Doc Oficial 2](https://developer.android.com/jetpack/compose/mental-model?hl=pt-br) <br>
